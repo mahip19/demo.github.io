@@ -119,7 +119,7 @@
 }
 
 .parallax {
-  background-image: url("../6-2-day1/Images/office-dark-blur.jpg");
+  background-image: url("./Images/office-dark-blur.jpg");
   /* min-height: 500px; */
 
   /* Create the parallax scrolling effect */
@@ -143,7 +143,7 @@
 }
 
 .qualifications-parallax {
-  background-image: url("../6-2-day1/Images/cafe-blur.jpg");
+  background-image: url("./Images/cafe-blur.jpg");
   /* min-height: 500px; */
 
   /* Create the parallax scrolling effect */
@@ -170,7 +170,7 @@
 }
 
 .skills-parallax {
-  background-image: url("../6-2-day1/Images/office-blur.jpg");
+  background-image: url("./Images/office-blur.jpg");
   /* min-height: 500px; */
 
   /* Create the parallax scrolling effect */
@@ -181,7 +181,7 @@
   background-size: cover;
 }
 .form-parallax {
-  background-image: url("../6-2-day1/Images/handshake.jpg");
+  background-image: url("./Images/handshake.jpg");
   /* min-height: 500px; */
 
   /* Create the parallax scrolling effect */
